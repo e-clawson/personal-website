@@ -21,4 +21,9 @@ Here is the timeline of my actual work:
 
 - Jul 30, 2025 - started the project and set-up the project structure - built the front-end and backend and connected to github - began the planning process for goals, deliverables, and timeline. 
 
+# Dependencies 
+
+# Attributions 
+- https://commons.wikimedia.org/wiki/File:Eo_circle_blue_letter-e.svg - E - circle blue letter, courtesy of Wikipedia Creative Commons 
+
 
