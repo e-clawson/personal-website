@@ -1,34 +1,34 @@
-import { useState } from 'react'
 import './App.css'
+import Home from './components/Pages/Home'
 
 function App() {
 
   return (
     <>
-      <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="#">
+      <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary">
+        <div className="container-fluid">
+          <a className="navbar-brand" href="#">
             <img src="/public/Eo_circle_blue_letter-e.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"/>
            Elizabeth Clawson
           </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+          <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span className="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <div className="collapse navbar-collapse" id="navbarNav">
+            <ul className="navbar-nav ms-auto">
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Home</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Software Engineer</a>
+              <li className="nav-item">
+                <a className="nav-link" href="#">Software Engineer</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Musician</a>
+              <li className="nav-item">
+                <a className="nav-link" href="#">Musician</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Educator</a>
+              <li className="nav-item">
+                <a className="nav-link" href="#">Educator</a>
               </li>
-              <li class="nav-item">
+              <li className="nav-item">
                 <a class="nav-link" href="#">Administrator</a>
               </li>
               {/* <li class="nav-item">
@@ -39,8 +39,9 @@ function App() {
           </div>
         </div>
       </nav>
-
-      <h1>Hello!</h1>
+      <div>
+        <Home />
+      </div>
     </>
   )
 }

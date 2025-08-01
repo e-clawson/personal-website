@@ -20,8 +20,5 @@ export default function Home(){
         <div>
             <h3>Please feel free to check out my website and learn a little more about me!</h3>
         </div>
-
     </>
-
-
 }
