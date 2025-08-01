@@ -1,4 +1,9 @@
+import React from 'react'
+import {Link} from 'react-router-dom'
+
 export default function Navbar() {
+
+return(
     <>
         <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary">
             <div className="container-fluid">
@@ -12,19 +17,19 @@ export default function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav ms-auto">
                     <li className="nav-item">
-                        <a className="nav-link active" aria-current="page" href="./components/Pages/Home.jsx">Home</a>
+                        <a className="nav-link active" aria-current="page" href="/">Home</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="./components/Pages/SoftwareEngineer.jsx">Software Engineer</a>
+                        <a className="nav-link" href="/softwareengineer">Software Engineer</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Musician</a>
+                        <a className="nav-link" href="/musician">Musician</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Educator</a>
+                        <a className="nav-link" href="/educator">Educator</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Administrator</a>
+                        <a className="nav-link" href="/administrator">Administrator</a>
                     </li>
                     {/* <li class="nav-item">
                         <a class="nav-link disabled" aria-disabled="true">Disabled</a>
@@ -33,6 +38,7 @@ export default function Navbar() {
                     </ul>
                 </div>
             </div>
-      </nav>
+        </nav>
     </>
+)
 }
