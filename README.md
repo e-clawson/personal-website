@@ -23,6 +23,11 @@ Here is the timeline of my actual work:
 
 # Dependencies 
 
+frontend: 
+- react-router-dom - https://www.npmjs.com/package/react-router-dom 
+
+backend: 
+
 # Attributions 
 - https://commons.wikimedia.org/wiki/File:Eo_circle_blue_letter-e.svg - E - circle blue letter, courtesy of Wikipedia Creative Commons 
 
