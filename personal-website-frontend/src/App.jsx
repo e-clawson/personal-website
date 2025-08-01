@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
             <img src="/public/Eo_circle_blue_letter-e.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"/>
