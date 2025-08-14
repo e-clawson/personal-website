@@ -1,3 +1,28 @@
+.homepage-greeting{
+    padding-top: 25px;
+}
 .headshot{
     height: 250px;
+    border-radius: 50%;
+    padding: 10px;
 }
+
+.homepage-text{ 
+    padding: 10px
+}
+
+.link-section a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(26, 0, 128);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+  }
+  
+.link-section  a:hover, a:active {
+    background-color: rgb(28, 21, 154);
+    color: white;
+  }
