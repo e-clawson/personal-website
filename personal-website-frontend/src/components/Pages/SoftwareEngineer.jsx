@@ -25,6 +25,7 @@ return(
             <img className= "tech-logo" src="/SWE Logos/JavaScript-logo.png" alt="JavaScript Logo"/>
             <img className= "tech-logo" src="/SWE Logos/React-icon.svg" alt="react logo"/>
             <img className= "tech-logo" src="/SWE Logos/Vitejs-logo.svg" alt="Vite Logo"/>   
+            <img className= "tech-logo" src="/SWE Logos/MongoDB_Fores-Green.svg" alt="MongoDB Logo"/>  
         </div>
 
     </>
