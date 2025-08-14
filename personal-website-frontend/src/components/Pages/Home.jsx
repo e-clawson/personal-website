@@ -1,4 +1,4 @@
-import 'Home.css'
+import '/src/Home.css'
 
 export default function Home(){ 
 
@@ -7,8 +7,8 @@ return (
     <div>
         <h1> Hello, Welcome to my Site!</h1>
     </div>
-    <div className="headshot">
-        <img src="/headshot.jpg" alt="Image of Liz with her bass"/>
+    <div >
+        <img className="headshot" src="/headshot.jpg" alt="Image of Liz with her bass"/>
     </div>
     <div> 
         <h2>About Me: </h2>
