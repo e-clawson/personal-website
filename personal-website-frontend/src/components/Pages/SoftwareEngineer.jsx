@@ -18,6 +18,15 @@ return(
                 explore the MERN stack, growing my skills in HTML, CSS, JavaScript, and React, while adding fundamental knowledge about express and backend technologies like MongoDB. 
             </p>
         </div>
+        <div className='tech-section'>
+            <h2>Technologies:</h2>
+            <img className= "tech-logo"src="/SWE Logos/HTML5_logo_and_wordmark.svg.png" alt="HTML 5 Logo"/>
+            <img className= "tech-logo" src="/SWE Logos/CSS3_logo.svg" alt="CSS3 Logo"/>
+            <img className= "tech-logo" src="/SWE Logos/JavaScript-logo.png" alt="JavaScript Logo"/>
+            <img className= "tech-logo" src="/SWE Logos/React-icon.svg" alt="react logo"/>
+            <img className= "tech-logo" src="/SWE Logos/Vitejs-logo.svg" alt="Vite Logo"/>   
+        </div>
+
     </>
 )
 }

@@ -29,6 +29,11 @@ frontend:
 backend: 
 
 # Attributions 
-- https://commons.wikimedia.org/wiki/File:Eo_circle_blue_letter-e.svg - E - circle blue letter, courtesy of Wikipedia Creative Commons 
 
+The Following images were used courtesy of Wikipedia Creative Commons: 
+- E - circle blue letter https://commons.wikimedia.org/wiki/File:Eo_circle_blue_letter-e.svg
+- React logo - https://commons.wikimedia.org/wiki/File:React-icon.svg 
+- Vite logo - https://commons.wikimedia.org/wiki/File:Vitejs-logo.svg
+- HTML 5 Logo - https://en.m.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg 
 
+The MongoDB logo was used courtesy of the MongoDB Brand Kit: https://www.mongodb.com/company/newsroom/brand-resources 
