@@ -37,3 +37,5 @@ The Following images were used courtesy of Wikipedia Creative Commons:
 - HTML 5 Logo - https://en.m.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg 
 
 The MongoDB logo was used courtesy of the MongoDB Brand Kit: https://www.mongodb.com/company/newsroom/brand-resources 
+
+Bootstrap gallery template courtesy of - https://mdbootstrap.com/docs/standard/extended/gallery/ 

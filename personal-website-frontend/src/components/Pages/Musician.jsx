@@ -19,13 +19,13 @@ return (
             <div class="row">
                 <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
                     <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
+                    src="/public/music-performance-photos/quintet.png"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Boat on Calm Water"
                     />
 
                     <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp"
+                    src="/public/music-performance-photos/baby-liz.jpeg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Wintry Mountain Landscape"
                     />
@@ -33,13 +33,13 @@ return (
 
                 <div class="col-lg-4 mb-4 mb-lg-0">
                     <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain2.webp"
+                    src="/public/music-performance-photos/liz-plays.jpeg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Mountains in the Clouds"
                     />
 
                     <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
+                    src="public/music-performance-photos/duo-isb.png"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Boat on Calm Water"
                     />
@@ -47,18 +47,22 @@ return (
 
                 <div class="col-lg-4 mb-4 mb-lg-0">
                     <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp"
+                    src="/public/music-performance-photos/bme.png"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Waves at Sea"
                     />
 
                     <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
+                    src="/public/music-performance-photos/freakfest.png"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Yosemite National Park"
                     />
                 </div>
             </div> 
+        </div>
+        <div className="music-sample-section"> 
+            <h2>Performance Samples:</h2>
+
         </div>
     </>
 )
