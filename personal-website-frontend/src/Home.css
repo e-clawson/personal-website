@@ -22,7 +22,7 @@
     margin: 10px;
   }
   
-.link-section  a:hover, a:active {
+.link-section a:hover, a:active {
     background-color: rgb(28, 21, 154);
     color: white;
   }

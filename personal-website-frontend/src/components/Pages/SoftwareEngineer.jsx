@@ -1,3 +1,5 @@
+import '/src/components/Styling/SoftwareEngineer.css'
+
 export default function SoftwareEngineer() { 
 
 return(
