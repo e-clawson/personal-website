@@ -2,8 +2,19 @@ export default function SoftwareEngineer() {
 
 return(
     <>
-        <div>
+        <div className='title'>
             <h1>Software Engineer</h1>
+        </div>
+        <div className="description">
+            <p>
+                In the fall of 2022, After seeing friends within the music industry successfully transition to fulfilling careers in tech, I decided to try out software engineering for myself 
+                by enrolling in Flatiron's part-time, online Software Engineering Bootcamp. Here, I learned the fundamentals of full-stack development, inculding HTML, CSS, Javascript, React, Ruby on Rails, and more. 
+                Most importantly, I learned that software engineering takes a lot of creative problem-solving, which is one of my gretest skils. I learned this is a type of work I have interest in, and can thrive doing! 
+            </p>
+            <p>
+                To continue my growth, I completed Per Scholas' 16 week, full-time Software engineering bootcamp in the summer of 2024. In this program, I was able to 
+                explore the MERN stack, growing my skills in HTML, CSS, JavaScript, and React, while adding fundamental knowledge about express and backend technologies like MongoDB. 
+            </p>
         </div>
     </>
 )
