@@ -29,7 +29,7 @@ return(
         </div>
 
         <div className='project-section'>
-            <h2>Projects:</h2>
+            <h2 className='project-section-title'>Projects:</h2>
 
             <div>
                 <div class="row row-cols-2 row-cols-md-2 g-4">
@@ -41,7 +41,7 @@ return(
                             <p class="card-text">This is my final project for Per Scholas. At the time, I was working as a Museum Associate for the McCormick Bridgehouse & Chicago River Museum, 
                                 and I simulated a real world client project by working with my manager to update the museum's website per his requests.
                                 Specifically, I focused on adding a more robust and navigable exhibits section. </p>
-                            <a href="#" class="btn btn-primary">Youtube</a>
+                            <a href="https://youtu.be/B18BhMWE8pY" class="btn btn-primary">Youtube</a>
                             <a href="https://github.com/e-clawson/bridgehouse-project" class="btn btn-primary">Github</a>
                             <a href="https://bridgehouse-project.netlify.app/" class="btn btn-primary">Live Demo</a>
 
