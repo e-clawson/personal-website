@@ -16,7 +16,7 @@ return (
 
     </div>
     <div className='homepage-text'>
-        <div> 
+        <div className='homepage-text-title'> 
             <h2>About Me: </h2>
         </div>
         <div>
@@ -29,7 +29,7 @@ return (
             In my previous roles, I have successfully managed diverse teams and communicated effectively across disciplines with customers, teams, partners, and stakeholders. At the Chinese Fine Arts Society, I collaborated with numerous arts organizations and individuals to create impactful arts experiences at iconic locations across Chicagoland, including the Field Museum, Navy Pier, Maggie Daley Park, and the Chicago Cultural Center. As an educator, I worked with the Richard Davis Foundation for Young Bassists, the University of Arizona String Project, and Cochise College, providing musicians of all ages with a strong foundation in string performance.
             </p>
         </div>
-        <div>
+        <div className='ending-tagline'>
             <h3>Please feel free to check out my website and learn a little more about me!</h3>
         </div>
 

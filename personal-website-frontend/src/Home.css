@@ -8,16 +8,24 @@
 }
 
 .homepage-text{ 
-    padding: 10px
+    padding: 15px;
+}
+
+.homepage-text-title{
+    padding: 10px;
 }
 
 .home-links{
     background-color: white;
     color: black;
     border: 2px solid aliceblue;
-    padding: 10px 20px;
+    padding: 10px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin: 10px;
+    margin: 15px;
+}
+
+.ending-tagline {
+    padding: 45px;
 }
