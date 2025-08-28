@@ -5,14 +5,14 @@ export default function Home(){
 return (
 <>
     <div className='homepage-greeting'>
-        <h1> Hello, Welcome to my Site!</h1>
+        <h1> Elizabeth Clawson</h1>
     </div>
     <div >
         <img className="headshot" src="/headshot.jpg" alt="Image of Liz with her bass"/>
     </div>
-    <div className='link-section'>
-        <a className='links' href="https://www.linkedin.com/in/elizabeth-clawson/" >LinkedIn</a>
-        <a className='links' href="https://github.com/e-clawson" >GitHub</a>
+    <div className='home-section'>
+        <a className='home-links' href="https://www.linkedin.com/in/elizabeth-clawson/" >LinkedIn</a>
+        <a className='home-links' href="https://github.com/e-clawson" >GitHub</a>
 
     </div>
     <div className='homepage-text'>
