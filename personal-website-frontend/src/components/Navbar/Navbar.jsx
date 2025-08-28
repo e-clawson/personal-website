@@ -5,7 +5,7 @@ export default function Navbar() {
 
 return(
     <>
-        <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary">
+        <nav className="navbar navbar-dark fixed-top navbar-expand-lg bg-body-tertiary">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
                     <img src="/Eo_circle_blue_letter-e.svg" alt="Logo" width="30" height="24" className="d-inline-block align-text-top"/>
