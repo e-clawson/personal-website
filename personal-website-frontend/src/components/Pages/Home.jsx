@@ -1,4 +1,4 @@
-import '/src/Home.css'
+import '../Styling/Home.css'
 
 export default function Home(){ 
 

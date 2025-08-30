@@ -24,6 +24,7 @@
     text-decoration: none;
     display: inline-block;
     margin: 15px;
+    border-radius: 5%;
 }
 
 .ending-tagline {

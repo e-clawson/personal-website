@@ -31,10 +31,6 @@ return(
                     <li className="nav-item">
                         <a className="nav-link" href="/administrator">Administrator</a>
                     </li>
-                    {/* <li class="nav-item">
-                        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-                    </li> */}
-                    {/* I think the above commented out line is just an example of how to disable a menu link so I will keep it for now and comment it out and delete it at the end */}
                     </ul>
                 </div>
             </div>
