@@ -50,12 +50,12 @@ return(
                     </div>
                     <div class="col">
                         <div class="card">
-                        <img src="..." class="card-img-top" alt="..."/>
+                        <img src="/Project-Images/my-closet-app.png" class="card-img-top" alt="..."/>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <a href="#" class="btn btn-primary">Youtube</a>
-                            <a href="#" class="btn btn-primary">Github</a>
+                            <h5 class="card-title">MyClosetApp</h5>
+                            <p class="card-text">MyClosetApp is an API designed to help users organize outfit ideas from their wardrobes. While using MyClosetApp, users can log into/signup for the app, view a list of all of their closet items and add/edit/delete those items (including photos of items), and create outfits. Made as my final project for flatiron's online software engineering course</p>
+                            <a href="https://www.youtube.com/watch?v=Ud8k6wROlek" class="btn btn-primary">Youtube</a>
+                            <a href="https://github.com/e-clawson/my-closet-app" class="btn btn-primary">Github</a>
 
                         </div>
                         </div>

@@ -10,7 +10,7 @@ import Administrator from './components/Pages/Administrator'
 function App() {
 
   return (
-    <>
+  <div className="full-site">
     <Navbar />
     <Routes>
       <Route path="/" element={<Home />}/>
@@ -20,7 +20,7 @@ function App() {
       <Route path="/administrator" element={<Administrator />}/>
     </Routes>
       
-    </>
+  </div>
   )
 }
 
