@@ -44,6 +44,7 @@ return(
                             <a href="https://youtu.be/B18BhMWE8pY" class="btn btn-primary">Youtube</a>
                             <a href="https://github.com/e-clawson/bridgehouse-project" class="btn btn-primary">Github</a>
                             <a href="https://bridgehouse-project.netlify.app/" class="btn btn-primary">Live Demo</a>
+                            <p class="card-text">Technologies: React + Vite, Javascript, MongoDB, HTML, CSS, Bootstrap </p>
 
                         </div>
                         </div>
@@ -56,18 +57,31 @@ return(
                             <p class="card-text">MyClosetApp is an API designed to help users organize outfit ideas from their wardrobes. While using MyClosetApp, users can log into/signup for the app, view a list of all of their closet items and add/edit/delete those items (including photos of items), and create outfits. Made as my final project for flatiron's online software engineering course</p>
                             <a href="https://www.youtube.com/watch?v=Ud8k6wROlek" class="btn btn-primary">Youtube</a>
                             <a href="https://github.com/e-clawson/my-closet-app" class="btn btn-primary">Github</a>
+                            <p class="card-text">Technologies: React, Javascript, Ruby on Rails, HTML, CSS </p>
 
                         </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card">
-                        <img src="..." class="card-img-top" alt="..."/>
+                        <img src="/Project-Images/calculator-app.png" class="card-img-top" alt="..."/>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-                            <a href="#" class="btn btn-primary">Youtube</a>
-                            <a href="#" class="btn btn-primary">Github</a>
+                            <h5 class="card-title">Simple Calculator</h5>
+                            <p class="card-text">A quick, mini project to practice creating a basic working calculator.</p>
+                            <a href="https://github.com/e-clawson/calculator-app" class="btn btn-primary">Github</a>
+                            <p class="card-text">Technologies: React, Javascript, HTML, CSS </p>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                        <img src="/Project-Images/villagerbook.png" class="card-img-top" alt="..."/>
+                        <div class="card-body">
+                            <h5 class="card-title">VillagerBook</h5>
+                            <p class="card-text">VillagerBook is an API designed to help you keep track of interactions with animals in Animal Crossing New Horizons.</p>
+                            <a href="https://youtu.be/34rY1umorJ8" class="btn btn-primary">Youtube</a>
+                            <a href="https://github.com/e-clawson/villager-book" class="btn btn-primary">Github</a>
+                            <p class="card-text">Technologies: Javascript, HTML, CSS </p>
                         </div>
                         </div>
                     </div>
