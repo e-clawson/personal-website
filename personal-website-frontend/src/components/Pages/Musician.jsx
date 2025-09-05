@@ -19,13 +19,13 @@ return (
             <div class="row">
                 <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
                     <img
-                    src="/public/music-performance-photos/quintet.png"
+                    src="/music-performance-photos/quintet.png"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Boat on Calm Water"
                     />
 
                     <img
-                    src="/public/music-performance-photos/baby-liz.jpeg"
+                    src="/music-performance-photos/baby-liz.jpeg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Wintry Mountain Landscape"
                     />
@@ -33,13 +33,13 @@ return (
 
                 <div class="col-lg-4 mb-4 mb-lg-0">
                     <img
-                    src="/public/music-performance-photos/liz-plays.jpeg"
+                    src="/music-performance-photos/liz-plays.jpeg"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Mountains in the Clouds"
                     />
 
                     <img
-                    src="public/music-performance-photos/duo-isb.png"
+                    src="/music-performance-photos/duo-isb.png"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Boat on Calm Water"
                     />
@@ -47,13 +47,13 @@ return (
 
                 <div class="col-lg-4 mb-4 mb-lg-0">
                     <img
-                    src="/public/music-performance-photos/bme.png"
+                    src="/music-performance-photos/bme.png"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Waves at Sea"
                     />
 
                     <img
-                    src="/public/music-performance-photos/freakfest.png"
+                    src="/music-performance-photos/freakfest.png"
                     class="w-100 shadow-1-strong rounded mb-4"
                     alt="Yosemite National Park"
                     />
