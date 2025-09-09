@@ -1,4 +1,5 @@
 import '../Styling/Home.css'
+import '../Footer/footer.jsx'
 
 export default function Home(){ 
 

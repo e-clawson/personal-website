@@ -6,6 +6,7 @@ import SoftwareEngineer from './components/Pages/SoftwareEngineer'
 import Musician from './components/Pages/Musician'
 import Educator from './components/Pages/Educator'
 import Administrator from './components/Pages/Administrator'
+import Footer from './components/Footer/footer'
 
 function App() {
 
@@ -19,7 +20,7 @@ function App() {
       <Route path="/educator" element={<Educator />}/>
       <Route path="/administrator" element={<Administrator />}/>
     </Routes>
-      
+    <Footer/>
   </div>
   )
 }
