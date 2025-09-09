@@ -1,6 +1,7 @@
 import React from "react"
 import {Link} from 'react-router-dom'
 import '../Footer/footer.css'
+import Form from "../Form/Form"
 
 export default function Footer() {
     return (
@@ -25,6 +26,9 @@ export default function Footer() {
                 <Link to="/musician">Musician</Link>
                 <Link to="/educator">Educator</Link>
                 <Link to="/administrator">Administrator</Link>
+            </div>
+            <div className="form">
+                <Form />
             </div>
         </div>
       
