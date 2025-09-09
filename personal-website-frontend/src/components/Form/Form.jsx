@@ -2,7 +2,16 @@ import React from 'react'
 
 const Form = () => {
   return (
-    <div>Form</div>
+    <section className='contact-form'>
+        <form>
+            <h5>Get In Touch:</h5>
+            <div className="input-box">
+                <label>First Name</label>
+
+            </div>
+        </form>
+
+    </section>
   )
 }
 
