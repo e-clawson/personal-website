@@ -19,8 +19,9 @@ const Form = () => {
             </div>
             <div className="input-box">
                 <label>Message: </label>
-                <textarea name="" id="" placeholder="Please enter your message here." required></textarea>
+                <textarea name="" id="" className="field message" placeholder="Please enter your message here." required></textarea>
             </div>
+            <button type="submit">Submit</button>
         </form>
 
     </section>
