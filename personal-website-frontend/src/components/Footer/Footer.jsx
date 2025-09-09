@@ -17,9 +17,6 @@ export default function Footer() {
                     Email: emclawson1@gmail.com
                     <br></br>
                 </p>
-
-
-                
             </div>
             <div className="sitemap">
                 <h5>Sitemap:</h5>
